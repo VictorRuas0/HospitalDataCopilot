@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\bin\Debug\net10.0\HospitalDataCopilot.exe
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\bin\Debug\net10.0\HospitalDataCopilot.deps.json
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\bin\Debug\net10.0\HospitalDataCopilot.runtimeconfig.json
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\bin\Debug\net10.0\HospitalDataCopilot.dll
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\bin\Debug\net10.0\HospitalDataCopilot.pdb
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.AssemblyInfo.cs
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.dll
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\refint\HospitalDataCopilot.dll
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.pdb
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\HospitalDataCopilot.genruntimeconfig.cache
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\ref\HospitalDataCopilot.dll
+C:\Users\victo\Downloads\Pasta nova\HospitalDataCopilot\HospitalDataCopilot\obj\Debug\net10.0\Hospital.65432A8A.Up2Date
